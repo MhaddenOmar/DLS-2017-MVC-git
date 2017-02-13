@@ -1,0 +1,9 @@
+diff a/models/Student.java b/models/Student.java	(rejected hunks)
+@@ -14,6 +14,7 @@
+     private String rollNo;
+     private String name;
+     private int age;
++    private int id;
+    
+     public String getRollNo() {
+         return rollNo;
