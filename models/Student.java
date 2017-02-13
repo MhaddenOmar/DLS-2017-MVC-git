@@ -19,7 +19,14 @@ public class Student {
     private int age;
     private int id2;
 >>>>>>> d6ce8543cf06879f17bed1d4e734b8c9d2d45ee2
+<<<<<<< HEAD
    asddas
+=======
+
+
+    private String tst2;
+   
+>>>>>>> b6923d8e9476e49bf1f083640fb939454f57f91f
     public String getRollNo() {
         return rollNo;
     }
