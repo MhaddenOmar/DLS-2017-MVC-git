@@ -19,6 +19,9 @@ public class Student {
     private int age;
     private int id2;
 >>>>>>> d6ce8543cf06879f17bed1d4e734b8c9d2d45ee2
+
+
+    private String tst2;
    
     public String getRollNo() {
         return rollNo;
